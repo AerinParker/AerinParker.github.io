@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Fall 2020 Updates"
+date: 2020-09-02
+description: # Add post description (optional)
+img:  # Add image post (optional)
+---
+
+I wanted to give an update on how the first week of the fall 2020 semester has gone. I am taking CSCI 221, in which I'll learn more about Java. I've already noticed that I'm doing better in the class because of my work with CIRDLES. If not for working in Java already, I'd be lost! I'm really enjoying it so far, and I'm looking forward to the rest of the semester and learning more about programming.
