@@ -9,11 +9,11 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Aerin Parker # add your name
 author-img: AerinParker.jpg # add your photo
-about-author: A blog to update my progress on MARS. # add description
+about-author: I am a junior at the College of Charleston studying Computer Science. This blog serves to chronicle my studies and work. # add description
 social-twitter: AerinParker # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: AerinParker # add your Github handle
-social-linkedin: Aerin Parker # add your Linkedin handle
+social-linkedin: aerin-parker-772951172 # add your Linkedin handle
 social-email: parkerak2@g.cofc.edu # add your Email address
 
 # Disqus
